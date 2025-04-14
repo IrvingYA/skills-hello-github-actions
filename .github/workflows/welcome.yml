@@ -7,4 +7,8 @@ permissions:
 jobs:
     build:
         name: Post Welcome comment
+<<<<<<< HEAD
         runs-on: ubuntu-latest
+=======
+        runs-on: ubuntu-latest
+>>>>>>> a7d95e60186b2eaafe62d007aa8c77724c3be818
